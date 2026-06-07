@@ -1,0 +1,9 @@
+# Do not edit the config-version
+config-version: 1.0
+name: dungeonname
+roomcount: 10
+roomrecyling: false
+startroom: ''
+bossroom: ''
+rewards:
+  - 'eco give %player% 100'
