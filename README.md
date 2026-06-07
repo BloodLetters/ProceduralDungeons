@@ -12,6 +12,8 @@
   <br/><br/>
 
   > ⚠️ **NOTICE:** This repository is a **FORK** of the original <a href="https://github.com/Zarinoow/ProceduralDungeon">ProceduralDungeon</a>. It has been specifically updated, optimized, and maintained to ensure full compatibility with the **latest versions** of Minecraft. 
+  >
+  > 🛑 **TAKE DOWN REQUEST:** If the original owner/creator wishes to take down this repository, please contact me on Discord. ID: 961870785486671872, Username: ashesh.zip
 
 </div>
 
@@ -87,27 +89,13 @@
 | :--- | :--- | :--- |
 | [WorldEdit](https://enginehub.org/worldedit) | Used for room selection, saving, and pasting schematics during dungeon generation. | [CurseForge](https://dev.bukkit.org/projects/worldedit/files) |
 | [FastAsyncWorldEdit (FAWE)](https://github.com/IntellectualSites/FastAsyncWorldEdit) | Alternative to WorldEdit with better performance. Install **one** of the two. | [CI Build](https://ci.athion.net/job/FastAsyncWorldEdit/) |
+| [MythicMobs](https://mythicmobs.net/) | Required for custom mob spawning in dungeon rooms. Provides the mob registry and spawn API. | [SpigotMC](https://www.spigotmc.org/resources/mythicmobs.5702/) |
 
 ### Optional
 
 | Plugin | Description | Download |
 | :--- | :--- | :--- |
-| [PacketEvents](https://github.com/retrooper/packetevents) | Packet manipulation library. Reserved for future feature expansions. | [SpigotMC](https://www.spigotmc.org/resources/packetevents-api.80279/) |
-| [Vault](https://github.com/MilkBowl/Vault) | Economy/permissions hook. Reserved for future integration (e.g. dungeon entry cost). | [SpigotMC](https://www.spigotmc.org/resources/vault.34315/) |
+| [Vault](https://github.com/MilkBowl/Vault) | Economy hook. Used for reward commands like `eco give %player% 100`. | [SpigotMC](https://www.spigotmc.org/resources/vault.34315/) |
+| [EssentialsX](https://essentialsx.net/) | Provides `/spawn` command used to teleport players back after dungeon completion. | [SpigotMC](https://www.spigotmc.org/resources/essentialsx.9089/) |
 ---
-
-## 🤝 Support & Community
-
-*   **Discord Support:** Join the community and get help here: [Discord Invite](https://discord.gg/jbg6x8Buum)
-*   **Servers using ProceduralDungeon:** *Be the first! Let us know in Discord to get featured here.*
-
----
-
-## ⚖️ Terms of Use
-
-*   **Respect the Work:** This plugin is public and free to use. Please be respectful of the time and effort put into it.
-*   **No Stealing:** The code is open for educational purposes. It is **under no circumstances tolerated to copy or steal this code** without prior consent.
-*   **No Unauthorized Modifications:** It is strictly forbidden to modify and redistribute the source code without prior agreement.
-*   **No Warranty:** I have no obligation to maintain this project forever; it is free and done in my spare time. Thank you for understanding.
-
 **Have fun using it!**
